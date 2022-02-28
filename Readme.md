@@ -1,10 +1,9 @@
-https://drivingexperience.hyundai.co.kr/kr/main
-
-<현대 드라이빙 익스피리언스 홈페이지 클로닝>
+# 현대 드라이빙 익스피리언스 홈페이지 클로닝
+- https://drivingexperience.hyundai.co.kr/kr/main
 - HTML, CSS, vanillaJS
-- 기간 : 2022/01/17 - 2022/01/21
+- 기간 : 일주일 (2022/01/17 - 2022/01/21)
 
-
+### 사용한 CSS, JS 효과
 - 헤더 반응형 메뉴
 - 슬라이드 배너 (자동 + 수동)
 - 마우스오버 이벤트
